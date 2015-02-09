@@ -3,4 +3,8 @@ layout: page
 title: Programming with Python
 subtitle: Discussion
 ---
-FIXME: general discussion.
+*   FIXME: First point.
+
+    This may span several paragraphs.
+
+*   FIXME: Second point.

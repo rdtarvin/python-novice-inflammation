@@ -92,7 +92,7 @@ del odds[0]
 print 'odds after removing the first element:', odds
 ~~~
 ~~~ {.output}
-[3, 5, 7, 11]
+odds after removing the first element: [3, 5, 7, 11]
 ~~~
 
 ~~~ {.python}
@@ -100,5 +100,5 @@ odds.reverse()
 print 'odds after reversing:', odds
 ~~~
 ~~~ {.output}
-[11, 7, 5, 3]
+odds after reversing: [11, 7, 5, 3]
 ~~~
